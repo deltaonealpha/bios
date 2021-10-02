@@ -17,19 +17,30 @@ As someone once said, "The greatest oak was once a little nut who held its groun
 
 #### Agrotes de l'espace Members:<br />
 <img src="https://raw.githubusercontent.com/deltaonealpha/bios/main/media/profilepictures/pranav.jpg" alt="picture_pranav_balaji" width="120px"/> 
+
 ##### Pranav Balaji
+
 <br/><br/>
 <img src="https://raw.githubusercontent.com/deltaonealpha/bios/main/media/profilepictures/abhinav.jpg" alt="picture_abhinav_jella" width="120px"/>
+
 ##### Abhinav Jella
+
 <br/><br/>
 <img src="https://raw.githubusercontent.com/deltaonealpha/bios/main/media/profilepictures/srihari.jpg" alt="picture_srihari_sridhar" width="120px"/>
+
 ##### Srihari Sridhar
+
 <br/><br/>
 <img src="https://raw.githubusercontent.com/deltaonealpha/bios/main/media/profilepictures/paridhi.jpg" alt="picture_paridhi_agarwal" width="120px"/>
+
 ##### Paridhi Agarwal
+
 <br/><br/>
 <img src="https://raw.githubusercontent.com/deltaonealpha/bios/main/media/profilepictures/pradosh.jpg" alt="picture_pradosh_sivaramkumar" width="120px"/>
+
 ##### Pradosh Sivaramkumar
+
 <br/><br/>
 <img src="https://raw.githubusercontent.com/deltaonealpha/bios/main/media/profilepictures/daksh.jpg" alt="picture_daksh_raturi" width="120px"/>
+
 ##### Daksh Raturi
