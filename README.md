@@ -8,7 +8,7 @@ Detailed Project Idea: <by tonight 2100 hours>
 - [ ] Complete website
 - [ ] Complete renders
 - [ ] Complete 9PM documentations
-- [ ] Complete the 1PM submission PPT
+- [-] Complete the 2PM submission PPT
 
 
 #### About
