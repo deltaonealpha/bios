@@ -5,9 +5,9 @@ BIOS Website: https://bios.vercel.app/<br />
 Detailed Project Idea: <by tonight 2100 hours>
 
 #### Todo
-- [ ] Complete website
-- [ ] Complete renders
-- [ ] Complete 9PM documentations
+- [X] Complete website
+- [X] Complete renders
+- [X] Complete 9PM documentations
 - [X] Complete the 2PM submission PPT
 
 
