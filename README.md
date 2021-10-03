@@ -1,7 +1,7 @@
 # Biotic Inter-Operable Plant System
 Fully autonomous and scalable space plantation pods
 
-BIOS Website: https://agrotes.co//<br />
+BIOS Website: https://agrotes.co/<br />
 Project Report: https://github.com/deltaonealpha/bios/blob/main/projectReports/projectreportfinal.pdf
 
 #### Todo
