@@ -1,8 +1,8 @@
 # Biotic Inter-Operable Plant System
 Fully autonomous and scalable space plantation pods
 
-BIOS Website: https://bios.vercel.app/<br />
-Detailed Project Idea: <by tonight 2100 hours>
+BIOS Website: https://agrotes.co//<br />
+Project Report: https://github.com/deltaonealpha/bios/blob/main/projectReports/projectreportfinal.pdf
 
 #### Todo
 - [X] Complete website
